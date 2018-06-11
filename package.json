@@ -1,0 +1,23 @@
+{
+  "name": "react-skeleton",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://aesherman@bitbucket.org/aesherman/react-skeleton.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/aesherman/react-skeleton#readme",
+  "dependencies": {
+    "babel-preset-react": "^6.24.1",
+    "babelify": "^7.3.0",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "watchify": "^3.9.0"
+  }
+}

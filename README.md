@@ -1,1 +1,1 @@
-# react_skeleton
+# My project's README
